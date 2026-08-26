@@ -15,6 +15,7 @@
   "domain": ["Fintech", "Overseas Remittance"],
   "current_focus": ["Specification-Driven Development", "AI-Assisted Programming"]
 }
+```
 
 ### 🛠️ `Tech_Stack.exe`
 
