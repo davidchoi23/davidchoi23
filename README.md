@@ -5,4 +5,18 @@
 </a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidchoi23)](https://github.com/anuraghazra/github-readme-stats)
+# 👨‍💻 Hello, World! I'm Eun-hyuk
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=System.out.println(%22Welcome_to_My_Repo!%22);&fontSize=40&fontAlignY=35" />
+</div>
+
+### ⚙️ `Eunhyuk.getInstance()`
+
+```json
+{
+  "name": "Choi Eun-hyuk",
+  "role": "Backend Server Engineer",
+  "domain": ["Fintech", "Overseas Remittance"],
+  "current_focus": ["Specification-Driven Development", "AI-Assisted Programming"]
+}
