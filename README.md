@@ -40,6 +40,20 @@
 </div>
 
 
+
+### 📊 `System_Metrics`
+
+<div align="center">
+  <!-- GitHub 일반 통계 그래프 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=davidchoi23&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=bf94e4&hide_border=true" alt="GitHub Stats" />
+  
+  <!-- 많이 사용하는 언어 통계 그래프 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidchoi23&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=bf94e4&hide_border=true" alt="Top Languages" />
+</div>
+<br/>
+
+
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <a href="https://github.com/devxb/gitanimals">
